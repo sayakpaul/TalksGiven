@@ -9,3 +9,5 @@ Slides from the talks given by me at different developer meet-ups and conference
 - [Google IO'19 Extended, Bhubaneswar](https://www.meetup.com/GDG-Bhubaneswar/events/260798274/)
 - [ML With The Experts - GDG Kolkata Meetup](https://www.meetup.com/GDG-Kolkata/events/262780353/)
 - [GDG DevFest Kolkata 2019](http://devfest.gdgkolkata.org)
+- [GDG DevFest Jaipur 2019](https://www.meetup.com/GDG-Jaipur/events/263590039/)
+- [Explore ML Academy](https://events.withgoogle.com/explore-ml-in/)
