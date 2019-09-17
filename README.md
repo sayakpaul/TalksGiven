@@ -11,3 +11,4 @@ Slides from the talks given by me at different developer meet-ups and conference
 - [GDG DevFest Kolkata 2019](http://devfest.gdgkolkata.org)
 - [GDG DevFest Jaipur 2019](https://www.meetup.com/GDG-Jaipur/events/263590039/)
 - [Explore ML Academy](https://events.withgoogle.com/explore-ml-in/)
+- [GDG DevFest Bhubaneswar 2019](https://www.meetup.com/GDG-Bhubaneswar/events/262747492/)
