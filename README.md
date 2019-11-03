@@ -16,3 +16,4 @@ Slides from the talks given by me at different developer meet-ups and conference
 - [TensorFlow Roadshow Bengaluru 2019](bit.ly/tf-roadshow)
 - [Class III of Launchpad Accelerator India](https://india.googleblog.com/2019/08/inviting-applications-for-class-3-of.html)
 - [Global GDE Summit 2019](https://twitter.com/GoogleDevExpert/status/1186503714309165056?s=20) (Remotely)
+- [Machine Learning Weekend, Turkey](https://twitter.com/hashtag/MachineLearningWeekend) (Remotely)
