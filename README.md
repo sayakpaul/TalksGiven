@@ -18,3 +18,4 @@ Slides from the talks given by me at different developer meet-ups and conference
 - [Global GDE Summit 2019](https://twitter.com/GoogleDevExpert/status/1186503714309165056?s=20) (Remotely)
 - [Machine Learning Weekend, Turkey](https://twitter.com/hashtag/MachineLearningWeekend) (Remotely)
 - [GDG DevFest Izmir '19](https://gdgizmir.org) (Remotely)
+- [Kaggle Days Mumbai](https://www.meetup.com/Kaggle-Days-Meetup-Mumbai/events/265372601/)
