@@ -19,4 +19,4 @@ Decks from the talks given by me at different developer meet-ups and conferences
 - [Machine Learning Weekend, Turkey](https://twitter.com/hashtag/MachineLearningWeekend) (Remotely)
 - [GDG DevFest Izmir '19](https://gdgizmir.org) (Remotely)
 - [Kaggle Days Mumbai](https://www.meetup.com/Kaggle-Days-Meetup-Mumbai/events/265372601/)
-- [GDG DevFest Warsaw&Radzymin '19](http://bit.ly/dfw-sayak)
+- [GDG DevFest Warsaw&Radzymin '19](http://bit.ly/dfw-sayak) (Remotely)
