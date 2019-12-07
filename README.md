@@ -1,4 +1,4 @@
-Slides from the talks given by me at different developer meet-ups and conferences: 
+Decks from the talks given by me at different developer meet-ups and conferences: 
 
 - [GDG DevFest Kolkata 2018](http://devfest18.gdgkolkata.org/speakers)
 - [DataHack Summit 2018](https://www.analyticsvidhya.com/datahack-summit-2018/speakers/sayak-paul/)
@@ -19,3 +19,4 @@ Slides from the talks given by me at different developer meet-ups and conference
 - [Machine Learning Weekend, Turkey](https://twitter.com/hashtag/MachineLearningWeekend) (Remotely)
 - [GDG DevFest Izmir '19](https://gdgizmir.org) (Remotely)
 - [Kaggle Days Mumbai](https://www.meetup.com/Kaggle-Days-Meetup-Mumbai/events/265372601/)
+- [GDG DevFest Warsaw&Radzymin '19](http://bit.ly/dfw-sayak)
