@@ -21,3 +21,4 @@ Decks from the talks given by me at different developer meet-ups and conferences
 - [Kaggle Days Mumbai](https://www.meetup.com/Kaggle-Days-Meetup-Mumbai/events/265372601/)
 - [GDG DevFest Warsaw&Radzymin '19](http://bit.ly/dfw-sayak) (Remotely)
 - ML Bootcamp organized by Launchpad India
+- [DevLoop 2020](https://mehdev.club/devloop/)
