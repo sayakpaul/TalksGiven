@@ -22,3 +22,4 @@ Decks from the talks given by me at different developer meet-ups and conferences
 - [GDG DevFest Warsaw&Radzymin '19](http://bit.ly/dfw-sayak) (Remotely)
 - ML Bootcamp organized by Launchpad India
 - [DevLoop 2020](https://mehdev.club/devloop/)
+- [MENA Digital Days 2020](https://events.withgoogle.com/menadd/)
