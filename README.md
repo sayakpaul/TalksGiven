@@ -23,3 +23,6 @@ Decks from the talks given by me at different developer meet-ups and conferences
 - ML Bootcamp organized by Launchpad India
 - [DevLoop 2020](https://mehdev.club/devloop/)
 - [MENA Digital Days 2020](https://events.withgoogle.com/menadd/)
+- [Post Harcourt School of AI](https://www.youtube.com/watch?v=_mt8G_HIQKQ&list=PL9Vj1wuWZTC87sLfpsu1lkDv-NrkMuhfC&index=5)
+- [Hack On by Coding Blocks](https://www.youtube.com/watch?v=dllfKQKlzvg&list=PL9Vj1wuWZTC87sLfpsu1lkDv-NrkMuhfC&index=4)
+- [Doing More with TensorFlow Lite](https://www.meetup.com/Pune-GDG/events/270177119/)
