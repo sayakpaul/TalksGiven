@@ -26,3 +26,5 @@ Decks from the talks given by me at different developer meet-ups and conferences
 - [Post Harcourt School of AI](https://www.youtube.com/watch?v=_mt8G_HIQKQ&list=PL9Vj1wuWZTC87sLfpsu1lkDv-NrkMuhfC&index=5)
 - [Hack On by Coding Blocks](https://www.youtube.com/watch?v=dllfKQKlzvg&list=PL9Vj1wuWZTC87sLfpsu1lkDv-NrkMuhfC&index=4)
 - [Doing More with TensorFlow Lite](https://www.meetup.com/Pune-GDG/events/270177119/)
+
+**Update**: I don't maintain it anymore. For a complete list please refer to: [sayak.dev/talksseminarsworkshops/](https://sayak.dev/talksseminarsworkshops/).
